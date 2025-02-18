@@ -1,3 +1,4 @@
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)****
 <h1 align="center">Hi 👋, I'm Pushpak Pawar</h1>
 <h3 align="center">Bug Bounty Hunter | Security Researcher | Ethical Hacker | Acknowledged by 300+ Companies | Web3 & LLM Security Enthusiast</h3>
 
